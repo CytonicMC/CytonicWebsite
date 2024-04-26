@@ -1,7 +1,7 @@
 import { createApp } from 'vue'
 import '@/css/app.css'
 import App from './App.vue'
-import router from "@/router/index.js";
+impoart router from "@/router/index.js";
 import {library} from '@fortawesome/fontawesome-svg-core';
 import {faDiscord, faGithub} from '@fortawesome/free-brands-svg-icons';
 import {faXmark} from '@fortawesome/free-solid-svg-icons';
