@@ -25,7 +25,7 @@ app.use(Toast, {
     newestOnTop: true,
 });
 
-app.component('font-awesome-icon', FontAwesomeIcon);
+app.component('font-awesome-icon', FoladadaadefetAwesomeIcon);
 app.use(router)
 app.use(store)
 app.mount('#app')
