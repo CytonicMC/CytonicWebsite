@@ -69,7 +69,7 @@
           <img v-if="modalUser.avatar_url" :alt="modalUser.name + '\'s Avatar'" :src="modalUser.avatar_url"
                class="max-w-24 absolute rounded-2xl right-[4vw] aspect-square object-cover">
           <img v-else :alt="modalUser.name + '\'s Avatar'" class="max-w-24 max-h-24 absolute right-[3.5vw] m-5"
-               src="/favicon-pride.svg">
+               src="/favicon.svg">
           <!-- User data -->
           <div class="text-white">
             <p>Name: {{ modalUser.name }}</p>
@@ -183,7 +183,7 @@
           <img v-if="user.avatar_url !== null" :alt="user.name + '\'s avatar'"
                :src="user.avatar_url"
                class="max-h-12 min-h-12 min-w-12 max-w-12 mr-2 rounded-2xl aspect-square object-cover">
-          <img v-else alt="Default Avatar" class="max-h-12 min-h-12 min-w-12 max-w-12 mr-2" src="/favicon-pride.svg">
+          <img v-else alt="Default Avatar" class="max-h-12 min-h-12 min-w-12 max-w-12 mr-2" src="/favicon.svg">
           <div class="ml-2 flex-grow">
             <h1 v-if="user.terminated" class="font-semibold my-0 font-title"><span class="line-through">{{
                 user.name
