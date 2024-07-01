@@ -29,6 +29,9 @@
         <p>Don't have an account?
           <router-link to="/auth/register" class="underline text-blue-500">Register</router-link>
         </p>
+        <p>Forgot your password?
+          <router-link to="/auth/" class="underline text-blue-500">Reset It</router-link>
+        </p>
       </div>
     </form>
   </div>
