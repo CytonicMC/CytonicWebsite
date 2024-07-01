@@ -1,5 +1,5 @@
 <template>
-  <div v-if="this.success" class="flex items-center justify-center:pray">
+  <div v-if="this.success" class="flex items-center justify-center">
     <div class="bg-gray-900 text-white p-8 rounded-lg shadow-lg max-w-[50vw] mt-[30vh]">
       <h2 class="text-2xl font-bold mb-4">Password Reset</h2>
       <form @submit.prevent>
