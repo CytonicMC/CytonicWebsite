@@ -63,12 +63,12 @@ const router = createRouter({
             alias: ['/register', '/signup'],
             component: () => import( '@/views/auth/RegistrationPage.vue'),
         },
-        /*{
+        {
             path: '/auth/password-reset',
             name: 'registration',
             alias: ['/password-reset', '/reset-password'],
             component: () => import( '@/views/auth/PasswordReset.vue'),
-        },*/
+        },
         {
             path: '/registered',
             name: 'registrationlanding',
