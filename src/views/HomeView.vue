@@ -44,7 +44,7 @@
   </div>
 </template>
 <script>
-import favicon from "/favicon-pride.svg"
+import favicon from "/favicon.svg"
 import axios from "@/api.js";
 export default {
   data() {
