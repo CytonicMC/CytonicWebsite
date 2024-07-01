@@ -30,7 +30,7 @@
           <router-link to="/auth/register" class="underline text-blue-500">Register</router-link>
         </p>
         <p>Forgot your password?
-          <router-link to="/auth/" class="underline text-blue-500">Reset It</router-link>
+          <router-link to="/auth/request-password-reset" class="underline text-blue-500">Reset It</router-link>
         </p>
       </div>
     </form>
