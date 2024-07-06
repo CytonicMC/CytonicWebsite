@@ -71,7 +71,7 @@ const router = createRouter({
         },
         {
             path: '/auth/request-password-reset',
-            name: 'registration',
+            name: 'request-password-reset',
             alias: ['/request-password-reset', '/reset-my-password'],
             component: () => import( '@/views/auth/RequestPasswordReset.vue'),
         },

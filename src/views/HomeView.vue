@@ -59,7 +59,7 @@ export default {
         {
           id: 2,
           name: "Foxikle",
-          position: "Network Developer",
+          position: "Lead Network Developer",
           avatar: 1
         },
         {
@@ -70,18 +70,24 @@ export default {
         },
         {
           id: 4,
+          name: "ResTheCoder",
+          position: "Network Developer",
+          avatar: 14
+        },
+        {
+          id: 5,
           name: "MomadXD",
           position: "Junior Developer",
           avatar: 9
         },
         {
-          id: 5,
+          id: 6,
           name: "Yello",
           position: "Mod",
           avatar: 8
         },
         {
-          id: 6,
+          id: 7,
           name: "LZ",
           position: "Helper",
           avatar: null
