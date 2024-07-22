@@ -76,18 +76,12 @@ export default {
         },
         {
           id: 5,
-          name: "MomadXD",
-          position: "Junior Developer",
-          avatar: 9
-        },
-        {
-          id: 6,
           name: "Yello",
           position: "Mod",
           avatar: 8
         },
         {
-          id: 7,
+          id: 6,
           name: "LZ",
           position: "Helper",
           avatar: null
