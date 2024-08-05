@@ -70,18 +70,12 @@ export default {
         },
         {
           id: 4,
-          name: "ResTheCoder",
-          position: "Network Developer",
-          avatar: 14
-        },
-        {
-          id: 5,
           name: "Yello",
           position: "Mod",
           avatar: 8
         },
         {
-          id: 6,
+          id: 5,
           name: "LZ",
           position: "Helper",
           avatar: null
