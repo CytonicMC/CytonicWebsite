@@ -66,7 +66,7 @@ export default {
           id: 3,
           name: "Parpification",
           position: "Game Designer",
-          avatar: null
+          avatar: 18
         },
         {
           id: 4,
