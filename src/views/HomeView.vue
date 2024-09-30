@@ -64,21 +64,45 @@ export default {
         },
         {
           id: 3,
-          name: "PrinceLegacy",
-          position: "Manager",
-          avatar: 6
+          name: "Parpification",
+          position: "Game Designer",
+          avatar: 18
         },
         {
           id: 4,
+          name: "xDadx",
+          position: "Game Designer",
+          avatar: 16
+        },
+        {
+          id: 5,
+          name: "AlexG",
+          position: "Developer",
+          avatar: 17
+        },
+        {
+          id: 6,
+          name: "Tavuc",
+          position: "Game Designer/Developer",
+          avatar: 15
+        },
+        {
+          id: 7,
           name: "Yello",
           position: "Mod",
           avatar: 8
         },
         {
-          id: 5,
+          id: 8,
           name: "LZ",
           position: "Helper",
           avatar: null
+        },
+        {
+          id: 9,
+          name: "Coolinventor",
+          position: "Helper",
+          avatar: 10
         },
       ],
       faq: [
