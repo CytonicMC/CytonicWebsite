@@ -88,7 +88,7 @@ export default {
         },
         {
           id: 7,
-          name: "Yello",
+          name: "blauc",
           position: "Mod",
           avatar: 8
         },
