@@ -4,7 +4,7 @@
 
     <div id="text" class="flex">
       <h1 class="text-white">
-        © Cytonic 2024. All Rights Reserved.
+        © Cytonic 2025. All Rights Reserved.
       </h1>
     </div>
 
